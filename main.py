@@ -5,7 +5,7 @@
 
 # Write your code here
 name=input("enter name:")
-age=int(input("enter age:")
+age=int(input("enter age:"))
 print("Welcome to Rizvi College of Engineering")
 print("Hello", name)
 print("You are",age,"years old")
