@@ -4,6 +4,8 @@
 # Date: 1-4-26
 
 # Write your code here
-name = input("Enter your name: ")
-print("Good afternoon", name)
-print("Rizvi College of Engineering")
+name=input("enter name:")
+age=int(input("enter age:")
+print("Welcome to Rizvi College of Engineering")
+print("Hello", name)
+print("You are",age,"years old")
