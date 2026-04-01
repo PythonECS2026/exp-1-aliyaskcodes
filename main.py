@@ -4,8 +4,8 @@
 # Date: 1-4-26
 
 # Write your code here
-name=input("enter Name:")
-age=int(input("enter age:"))
+name=input("Enter Name:")
+age=int(input("Enter Age:"))
 print("Welcome to Rizvi College of Engineering")
 print("Hello,",name)
-print("You are",age,"years old")
+print("You are",age,"years old.")
